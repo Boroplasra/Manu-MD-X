@@ -1,12 +1,12 @@
 {
-  "name": "MANU-MD",
+  "name": "ASHOK-MD",
   "version": "7.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name MANU-MD",
-    "stop": "pm2 stop MANU-MD",
-    "restart": "pm2 restart MANU-MD"
+    "stop": "pm2 stop ASHOK-MD",
+    "restart": "pm2 restart ASHOK-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
