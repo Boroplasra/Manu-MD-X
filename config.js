@@ -1,6 +1,6 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                    𝗠𝗔𝗡𝗨-𝗠𝗗  𝐁𝐎𝐓                                                 //
+//                                    ASHOK-𝗠𝗗  𝐁𝐎𝐓                                                 //
 //                                                                                                      //
 //                                         Ｖ：7.0                                                       //
 
@@ -20,19 +20,19 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
+//  * @project_name : ASHOK-MD
 //  * @author : Manul Official
 //  * @youtube : https://www.youtube.com/@ManulOfficialTech
 //  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
+//base by ASHOK Official
 //GitHub: @manulofficial7
-//WhatsApp: +94742274855
+//WhatsApp: +919387196256
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
 //   * Created By Github: manulofficial7.
 //   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//   * © 2024 ASHOK-MD-V7.
 // ⛥┌┤
 // */
 
@@ -69,7 +69,7 @@ AUTO_TYPING : process.env.AUTO_TYPING || "false",
 AUTO_RECORDING : process.env.AUTO_RECORDING || "false",
 OWNER_NUMBER : process.env.OWNER_NUMBER || "919387196256",
 DELCHAT : process.env.DELCHAT || "pm",
-FOOT : process.env.FOOT || "🧚‍♀️𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼💗",
+FOOT : process.env.FOOT || "🧚‍♀ASHOK-MD-𝗩❼💗",
 BOT_INFO: process.env.BOT_INFO || "Manu-MD;OFC;0;https://i.ibb.co/GRpbTZp/IMG-20240920-WA0020.jpg;https://whatsapp.com/channel/0029VaN1XMn2ZjCsu9eZQP3R",
 HANDLERS: process.env.HANDLERS || ".,",
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1500': process.env.MAX_SIZE,
